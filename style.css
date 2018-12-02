@@ -1,0 +1,9 @@
+body {
+	margin-left: 15 px;
+	margin-right: 25px;
+	background: #d8ffa3;
+	font-size: 30px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: centre;
+	background-image: url("book.jpg");
+}
